@@ -33,29 +33,29 @@ node.carros/
 ## Como executar o projeto
 
 1. Clone o repositório:
-'''
+```
 git clone https://github.com/geovanelvs/node.carros.git
-'''
+```
 
-3. Acesse a pasta do projeto:
-'''
+2. Acesse a pasta do projeto:
+```
 cd node.carros
-'''
+```
 
-5. Instale as dependências:
-'''
+3. Instale as dependências:
+```
 npm install
-'''
+```
 
-7. Inicie o servidor:
-'''
+4. Inicie o servidor:
+```
 node app.js
-'''
+```
 
-9. A API estará rodando no endereço:
-'''
+5. A API estará rodando no endereço:
+```
 http://localhost:3000/
-'''
+```
 
 ## Rotas da API
 
